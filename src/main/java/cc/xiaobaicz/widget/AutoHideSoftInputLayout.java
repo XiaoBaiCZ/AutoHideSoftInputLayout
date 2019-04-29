@@ -1,4 +1,4 @@
-package cc.xiaobaicz.autohidesoftinputlayout;
+package cc.xiaobaicz.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
